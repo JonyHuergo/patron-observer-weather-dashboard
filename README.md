@@ -1,7 +1,6 @@
-# patron-observer-weather-dashboard
-Pequeño proyecto para aprender el patrón "observer"
-
 # Live Weather Dashboard
+
+Pequeño proyecto para aprender el patrón "observer"
 
 ## Description
 Create a weather dashboard that displays real-time weather updates for multiple cities. The application will have a "Weather Publisher" that fetches data from a weather API and multiple "Weather Subscribers" (components) that display data for specific cities. When the publisher updates, all the subscribers automatically reflect the latest weather data.
